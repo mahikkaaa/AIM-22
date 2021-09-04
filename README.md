@@ -3,6 +3,7 @@
 Designing a software to resolve a wide variety of business-related problems, forms and formats  geological, topography, geo-mechanical, engineering, mineralogy, and well logging data to augment each phase of mining, using AI.
 ABSTRACT:
 Our product will include machine learning, optical character recognition (OCR) and natural language processing (NLP) capabilities which will be customizable, unified and a modular platform which will allow clients to build their own experiences around it to suit their needs. The main problems that can be solved are:
+
 •	It can forecast revenues, identify requirement of potential products, understand customer behavior, provide deep understanding of contracts and identify lack of compliance or fraud.
 
 •	It can improve order to cash process by creating a real-time risk profile to customize the collection strategy, expedite resolution of disputes, predict anomalies, prevent disputes, and enable better visibility and forecasting of cash flow to reduce days sales outstanding.
